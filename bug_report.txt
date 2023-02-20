@@ -1,0 +1,10 @@
+Date bug	4.1.2023
+Severity	Minor
+Environment Windows 10 Pro Chrome v 108
+Title	The Belarusian phone number is listed in the link for Russian and Ukrainian phone numbers in the "Please, contact us for additional questions and special terms" block in the [Corporate account] menu item.
+Steps	"1. Navigate to currency.com 
+       2. Click Menu item [Corporate account] on Menu section [About us] 
+       3. Scroll to block ""Please, contact us for additional questions and special terms"
+Expected Result The phone number in the link corresponds to the phone number.
+Actual Result The Belarusian phone number is listed in the link
+       
